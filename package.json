@@ -1,0 +1,42 @@
+{
+  "name": "flat-ui-dark",
+  "displayName": "Flat UI Dark",
+  "description": "Flat UI Dark theme for visual studio code.",
+  "publisher": "muhammadsammy",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "version": "0.1.2",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flat UI Custom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flat-ui-master.json"
+      },
+      {
+        "label": "Flat UI Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flat-ui-material.json"
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/muhammadsammy/flat-ui",
+    "type": "git"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "flat",
+    "dark",
+    "ui",
+    "flatui",
+    "flat ui",
+    "theme",
+    "material"
+  ]
+}
