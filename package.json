@@ -1,7 +1,7 @@
 {
   "name": "flat-ui-dark",
-  "displayName": "Flat UI Dark",
-  "description": "Flat UI Dark theme for visual studio code.",
+  "displayName": "Flat UI Theme",
+  "description": "Modified versions of the dark Flat UI theme by Kaiyuan Liu.",
   "publisher": "muhammadsammy",
   "engines": {
     "vscode": "^1.20.0"
