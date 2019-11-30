@@ -742,6 +742,41 @@
       "settings": {
         "foreground": "#5c6370"
       }
+    },
+    {
+      "scope": "markup.heading",
+      "settings": {
+        "foreground": "#3193c6ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["markup.bold"],
+      "settings": {
+        "foreground": "#05ad97ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["markup.italic"],
+      "settings": {
+        "foreground": "#05ad97ff",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["markup.quote"],
+      "settings": {
+        "foreground": "#d19a66ff",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["markup.list.unnumbered"],
+      "settings": {
+        "foreground": "#e06c75ff",
+        "fontStyle": ""
+      }
     }
   ]
 }
